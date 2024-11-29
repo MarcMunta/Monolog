@@ -1,0 +1,17 @@
+{
+    "name": "marc/monolog",
+    "autoload": {
+        "psr-4": {
+            "Marc\\Monolog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marc Muntané",
+            "email": "mmclara1050@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.8"
+    }
+}
